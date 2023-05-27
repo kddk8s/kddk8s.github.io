@@ -1,25 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Frist Psot!"
 date:   2023-05-27 11:09:58 -0400
-categories: jekyll update
+#categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I'm no authority... I have been around the block a few times.  A few things for our queer community.
 
-Jekyll also offers powerful support for code snippets:
+* [That's Gender Dysphoria, FYI](https://genderdysphoria.fyi/en) (Or let's crack a few eggs)
+* [Guidelines for the Primary and Gender-Affirming Care of transgender and Gender Nonbinary People](https://transcare.ucsf.edu/guidelines) (Or if you thought your endo was winging it... it's probably this or small tweaks on this)
+* [World Professional Association for Transgender Health Standards of Care 8](https://www.wpath.org/soc8/chapters) (Or HBIGDA was a pile of misogynistic, homophobic, transphobic cruelty.  And it's a damn shame it took the brand of an endocrinologist that gave a damn.)
+* [Foot Note][foot-note]
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+[foot-note]: https://i.pinimg.com/736x/ee/a6/d4/eea6d44bb37515b9d3893cdd93b7f180.jpg
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
