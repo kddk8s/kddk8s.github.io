@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm just an old autistic polygender trans tomboy with a karaoke problem.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My highlights... sent the newgroup message that moved the online trans community from a couple private mailing lists and an IRC channel to USENET.  USENET as a discussion forum platform is long dead.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I onboarded the folks that had to do the Root Cause Analysis of the incident behind [IBM Commercial - I'm Stupid](https://www.youtube.com/watch?v=38MS4sdK-4Y) ... [Victoria's Secret knows ads, but not the Web](http://edition.cnn.com/TECH/computing/9902/05/vicweb.idg/)
 
-
-[jekyll-organization]: https://github.com/jekyll
